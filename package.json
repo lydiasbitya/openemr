@@ -57,7 +57,7 @@
     "oe-cqm-parsers": "5.5.0"
   },
   "dependencies": {
-    "@eastdesire/jscolor": "2.4.6",
+    "@eastdesire/jscolor": "2.4.7",
     "@fortawesome/fontawesome-free": "5.15.4",
     "@ttskch/select2-bootstrap4-theme": "1.5.2",
     "angular": "1.8.2",
