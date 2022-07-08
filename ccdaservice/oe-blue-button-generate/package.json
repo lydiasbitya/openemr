@@ -37,7 +37,7 @@
     "bundleDependencies": true,
     "dependencies": {
         "libxmljs2": "0.26.6",
-        "moment": "~2.19.3",
+        "moment": "~2.29.4",
         "uuid": "^2.0.1"
     },
     "devDependencies": {}
