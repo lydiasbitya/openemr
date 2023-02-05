@@ -9,7 +9,7 @@
 # php-fpm Dockerfile build for openemr development docker environment
 # This docker is hosted here: https://hub.docker.com/r/openemr/dev-php-fpm/ <tag is 7.2>
 #
-FROM nginx
+FROM nginx:1.23
 
 # Copy over the nginx.conf conf
 COPY nginx.conf /etc/nginx/nginx.conf
