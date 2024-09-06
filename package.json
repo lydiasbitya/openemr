@@ -98,7 +98,7 @@
     "sortablejs": "1.14.0",
     "underscore": "1.13.2",
     "validate.js": "0.13.1",
-    "oe-cqm-service": "1.0.1"
+    "oe-cqm-service": "2.0.0"
   },
   "napa": {
     "bootstrap-rtl": "https://github.com/PerseusTheGreat/bootstrap-4-rtl/archive/d10bd73477b879e78a4f71874af18747d285b6e8.zip",
