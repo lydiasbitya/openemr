@@ -36,7 +36,7 @@
     },
     "bundleDependencies": true,
     "dependencies": {
-        "libxmljs2": "0.26.6",
+        "libxmljs2": "0.26.7",
         "moment": "~2.19.3",
         "uuid": "^2.0.1"
     },
